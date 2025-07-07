@@ -1,4 +1,3 @@
-#include <Servo.h>
 #include <micro_ros_arduino.h>
 #include <geometry_msgs/msg/twist.h>
 #include <nav_msgs/msg/odometry.h>
